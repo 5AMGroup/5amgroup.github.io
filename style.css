@@ -13,7 +13,7 @@ body {
   font-family: 'Consolas';
   font-style: italic;
   font-size: 200%;
-  font-weight: 900;
+  font-weight: auto;
   text-align: center;
   text-emphasis: italic;
   color: white;
