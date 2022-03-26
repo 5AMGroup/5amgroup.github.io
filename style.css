@@ -5,6 +5,7 @@ body {
 {
   width: 100%;
   height: auto;
+  color: white;
 }
 
 .title
@@ -13,7 +14,7 @@ body {
   font-family: 'Consolas';
   font-style: italic;
   font-size: 200%;
-  font-weight: auto;
+  font-weight: 900;
   text-align: center;
   text-emphasis: italic;
   color: white;
