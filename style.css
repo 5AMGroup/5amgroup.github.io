@@ -4,14 +4,9 @@ body {
 
 .main
 {
-  width: 75%;
+  width: 100%;
   height: auto;
-  background-color:lightgrey;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 25px;
-  padding-top: 25px;
-
+  background-color:rgb(163, 17, 17);
 }
 
 .title
