@@ -1,12 +1,10 @@
 body {
-    background-color: grey
-}
+  background-color:rgb(0, 0, 0);
 
 .main
 {
   width: 100%;
   height: auto;
-  background-color:rgb(0, 0, 0);
 }
 
 .title
