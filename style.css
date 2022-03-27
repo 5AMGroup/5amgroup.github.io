@@ -1,4 +1,4 @@
-body {
+.body {
   background-color:rgb(0, 0, 0);
 }
 .main
@@ -25,19 +25,3 @@ body {
   height: 50px;
   display: block;
 }
-
-.bar
-{
-  width: 100%;
-  margin-top: 0px;
-  font-size: 0px;
-  background-color:lightgrey;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top:10px;
-  height: 40px;
-}
-
-a
-{
-  text-decoration: none; }
