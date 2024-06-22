@@ -1,0 +1,32 @@
+html {background-color: black}
+.body {
+  background-color:black;
+}
+.main
+{
+  width: 100%;
+  height: auto;
+  color: white;
+  background-color: black;
+}
+.h2{
+  background-color: rgb(62, 60, 60);
+}
+
+.title
+{
+  position: sticky;
+  width: 100%;
+  font-family: 'Consolas';
+  font-style: italic;
+  font-size: 200%;
+  font-weight: 900;
+  text-align: center;
+  text-emphasis: italic;
+  color: white;
+  background-color: rgb(243, 34, 34);
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  display: block;
+}

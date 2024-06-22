@@ -1,32 +1,50 @@
-html {background-color: black}
-.body {
-  background-color:black;
-}
-.main
-{
-  width: 100%;
-  height: auto;
-  color: white;
-  background-color: black;
-}
-.h2{
-  background-color: rgb(62, 60, 60);
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
 }
 
-.title
-{
-  position: sticky;
-  width: 100%;
-  font-family: 'Consolas';
-  font-style: italic;
-  font-size: 200%;
-  font-weight: 900;
-  text-align: center;
-  text-emphasis: italic;
-  color: white;
-  background-color: rgb(243, 34, 34);
-  margin-left: auto;
-  margin-right: auto;
-  height: 50px;
-  display: block;
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    margin: 2rem;
+    padding: 1rem;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+video {
+    display: block;
+    margin: 1rem auto;
 }
