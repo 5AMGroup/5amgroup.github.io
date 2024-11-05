@@ -4,20 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The 5am Group</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
 </head>
 <body>
     <header>
         <h1>Welcome to The 5am Group Page</h1>
     </header>
-    <nav>
-        <ul>
-            <li><a href="members/marin.html">Marin</a></li>
-            <li><a href="members/rajan.html">Rajan</a></li>
-            <li><a href="members/mandip.html">Mandip</a></li>
-            <li><a href="members/haq.html">Haq</a></li>
-        </ul>
-    </nav>
+    <div class="container">
+        <nav class="member-list">
+            <ul>
+                <li><a href="members/marin.html" class="member-button">Marin</a></li>
+                <li><a href="members/rajan.html" class="member-button">Rajan</a></li>
+                <li><a href="members/mandip.html" class="member-button">Mandip</a></li>
+                <li><a href="members/haq.html" class="member-button">Haq</a></li>
+            </ul>
+        </nav>
+        <div class="slider">
+            <img class="slides" src="images/valorant.jpg" alt="Valorant">
+            <img class="slides" src="images/fortnite.jpg" alt="Fortnite">
+            <img class="slides" src="images/minecraft.jpg" alt="Minecraft">
+        </div>
+    </div>
 </body>
 </html>
-
